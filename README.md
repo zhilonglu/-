@@ -7,3 +7,8 @@
 * [Commission Fee is not Enough A Hierarchical Reinforced Framework for Portfolio Management]()
 * [DeepTrader A Deep Reinforcement Learning Approach for Risk-Return Balanced Portfolio Management with Market Conditions Embedding]()
 * [Coupling Macro-Sector-Micro Financial Indicators for LearningStock Representations with Less Uncertainty](https://github.com/goiter/CoCPC)
+
+
+## stock related
+ * [Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model](https://github.com/JinanZou/Astock)
+ * [FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns]()
