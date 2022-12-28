@@ -11,4 +11,4 @@
 
 ## stock related
  * [Astock: A New Dataset and Automated Stock Trading based on Stock-specific News Analyzing Model](https://github.com/JinanZou/Astock)
- * [FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns]()
+ * [FactorVAE: A Probabilistic Dynamic Factor Model Based on Variational Autoencoder for Predicting Cross-Sectional Stock Returns]
